@@ -28,12 +28,12 @@ This project is designed for security enthusiasts and system administrators to p
 
    ![](/assets/CMD.png)
 
-3.Launch the dashboard:
+ 3.Launch the dashboard:
 
-streamlit run dashboard.py
+   streamlit run dashboard.py
 
-![](/assets/DASHBOARD-1.png)
-![](/assets/DASHBOARD-2.png)
+   ![](/assets/DASHBOARD-1.png)
+   ![](/assets/DASHBOARD-2.png)
 
 📝 Project Structure
 advanced_scan.py: Backend script for ADB extraction and API calls.
